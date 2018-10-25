@@ -1,0 +1,10 @@
+C:\VisualStudioExperiments\StopLightStrategy\StopLightStrategy\bin\Debug\StopLightStrategy.exe.config
+C:\VisualStudioExperiments\StopLightStrategy\StopLightStrategy\bin\Debug\StopLightStrategy.exe
+C:\VisualStudioExperiments\StopLightStrategy\StopLightStrategy\bin\Debug\StopLightStrategy.pdb
+C:\VisualStudioExperiments\StopLightStrategy\StopLightStrategy\obj\Debug\StopLightStrategy.exe
+C:\VisualStudioExperiments\StopLightStrategy\StopLightStrategy\obj\Debug\StopLightStrategy.pdb
+C:\VisualStudioExperiments\StopLightStrategy\StopLightStrategy\obj\Debug\StopLightStrategy.csprojAssemblyReference.cache
+C:\VisualStudioExperiments\StopLightStrategy\StopLightStrategy\obj\Debug\StopLightStrategy.csproj.CoreCompileInputs.cache
+D:\GitRepos\StopLight\StopLightStrategy\StopLightStrategy\bin\Debug\StopLightStrategy.exe.config
+D:\GitRepos\StopLight\StopLightStrategy\StopLightStrategy\obj\Debug\StopLightStrategy.exe
+D:\GitRepos\StopLight\StopLightStrategy\StopLightStrategy\obj\Debug\StopLightStrategy.pdb
